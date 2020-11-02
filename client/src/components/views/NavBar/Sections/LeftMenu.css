@@ -1,0 +1,32 @@
+@import "~antd/dist/antd.css";
+
+/* .test {
+  background: #f7c1c1;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 15px;
+  letter-spacing: -1.4px;
+  word-spacing: 1.2px;
+  color: #ffffff;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  /* text-shadow: 4px 3px 0px #882f2f; */
+/* }  */
+
+.custom-menu .ant-menu {
+  background-color: transparent;
+}
+.custom-menu .ant-menu-submenu {
+  background-color: #f7c1c1;
+}
+.custom-menu .ant-menu-item {
+  background-color: #f7c1c1;
+}
+.custom-menu .ant-menu-submenu:hover {
+  background-color: #f7c1c1;
+}
+.custom-menu .ant-menu-item:hover {
+  background-color: #f7c1c1;
+}
