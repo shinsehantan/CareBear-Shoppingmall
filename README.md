@@ -17,9 +17,9 @@ If you like Care-Bear, you will love this website. <br />
 5. product images gallery
 6. add to cart & delete from cart
 7. paypal payment system
-8. purchase history
+8. purchase history <br />
 
-Here is the website url. <br />
+Here is the website url.
 Responsive but recommended in PC environment. <br />
 https://gentle-scrubland-03375.herokuapp.com/ <br />
 
@@ -55,7 +55,7 @@ https://gentle-scrubland-03375.herokuapp.com/ <br />
 8. 구매정보 history <br />
   <img width="500px" src="https://user-images.githubusercontent.com/67591151/97992583-34e5d480-1e26-11eb-93fb-ae05e24a64cf.jpg"> <br /><br />
   
-아래 주소에서 신세한탄의 케어베어 쇼핑몰을 구경해보세요! <br />
+아래 주소에서 신세한탄의 케어베어 쇼핑몰을 구경해보세요!
 반응형으로 제작되었으나, pc 환경에서 보는 것을 추천합니다. <br />
 https://gentle-scrubland-03375.herokuapp.com/ <br />
 
