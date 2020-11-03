@@ -3,14 +3,13 @@
 신세한탄의 케어베어 쇼핑몰입니다. <br />
 케어베어를 좋아하신다면, 마음에 드실 거예요! <br /> <br />
 
-_개발도구_ <br />
-
+####개발도구
 * React
 * Node JS
 * Mongo DB
-* Express JS
+* Express JS <br />
 
-_이 쇼핑몰에는 아래와 같은 기능들이 있습니다._ <br />
+####이 쇼핑몰에는 아래와 같은 기능들이 있습니다.
 
 1. 회원가입/로그인/로그아웃 <br />
   <img width="500px" src="https://user-images.githubusercontent.com/67591151/97993644-b0945100-1e27-11eb-83d0-f51a84d7d086.jpg"> <br />
@@ -41,14 +40,14 @@ https://gentle-scrubland-03375.herokuapp.com/ <br />
 This is Shinsehantan's Care-Bear Shoppingmall.
 If you like Care-Bear, you will love this website. <br />
 
-_I use for this website..._ <br />
+####I use for this website...
 
 * React
 * Node JS
 * Mongo DB
-* Express JS
+* Express JS <br />
 
-_what you can find in this website is..._ <br />
+####what you can find in this website is...
 
 1. sign up/sign in/sign out
 2. product upload & delete
