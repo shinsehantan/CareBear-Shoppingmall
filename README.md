@@ -4,7 +4,6 @@
 케어베어를 좋아하신다면, 마음에 드실 거예요! <br /> <br />
 _이 쇼핑몰에는 아래와 같은 기능들이 있습니다._ <br />
 
----------------------------------------------------------
 1. 회원가입/로그인/로그아웃 <br />
   <img width="500px" src="https://user-images.githubusercontent.com/67591151/97993644-b0945100-1e27-11eb-83d0-f51a84d7d086.jpg"> <br />
 2. 상품 업로드 및 상품 삭제 <br />
@@ -21,7 +20,7 @@ _이 쇼핑몰에는 아래와 같은 기능들이 있습니다._ <br />
   <img width="500px" src="https://user-images.githubusercontent.com/67591151/97992567-2f888a00-1e26-11eb-86df-f030a715ab08.jpg">
   <img width="500px" src="https://user-images.githubusercontent.com/67591151/97992573-31524d80-1e26-11eb-9e1c-70a4e9006a15.jpg"> <br />
 8. 구매정보 history <br />
-  <img width="500px" src="https://user-images.githubusercontent.com/67591151/97992583-34e5d480-1e26-11eb-93fb-ae05e24a64cf.jpg"> <br />
+  <img width="500px" src="https://user-images.githubusercontent.com/67591151/97992583-34e5d480-1e26-11eb-93fb-ae05e24a64cf.jpg"> <br /><br />
 
 아래 주소에서 신세한탄의 케어베어 쇼핑몰을 구경해보세요! <br />
 반응형으로 제작되었으나, pc 환경에서 보는 것을 추천합니다. <br />
