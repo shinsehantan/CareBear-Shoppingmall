@@ -1,9 +1,10 @@
 ## 케어베어 쇼핑몰
-<img width="700px" src="https://user-images.githubusercontent.com/67591151/97992371-f05a3900-1e25-11eb-8259-f2118a5ded45.jpg">
+<img width="700px" src="https://user-images.githubusercontent.com/67591151/97992371-f05a3900-1e25-11eb-8259-f2118a5ded45.jpg"> <br />
 신세한탄의 케어베어 쇼핑몰입니다. <br />
-케어베어를 좋아하신다면, 마음에 드실 거예요! <br />
+케어베어를 좋아하신다면, 마음에 드실 거예요! <br /> <br />
 _이 쇼핑몰에는 아래와 같은 기능들이 있습니다._ <br />
 
+---------------------------------------------------------
 1. 회원가입/로그인/로그아웃 <br />
   <img width="500px" src="https://user-images.githubusercontent.com/67591151/97993644-b0945100-1e27-11eb-83d0-f51a84d7d086.jpg"> <br />
 2. 상품 업로드 및 상품 삭제 <br />
@@ -27,6 +28,7 @@ _이 쇼핑몰에는 아래와 같은 기능들이 있습니다._ <br />
 https://gentle-scrubland-03375.herokuapp.com/ <br />
 
 ---------------------------------------------------------
+
 ## Care Bear Shopping Mall
 
 This is Shinsehantan's Care-Bear Shoppingmall.
