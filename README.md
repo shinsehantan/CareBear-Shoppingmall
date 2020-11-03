@@ -44,14 +44,12 @@ https://gentle-scrubland-03375.herokuapp.com/ <br />
 This is Shinsehantan's Care-Bear Shoppingmall.
 If you like Care-Bear, you will love this website. <br />
 
-----
 I use for this website...
 * React
 * Node JS
 * Mongo DB
 * Express JS <br />
 
-----
 what you can find in this website is...
 1. sign up/sign in/sign out
 2. product upload & delete
@@ -62,7 +60,6 @@ what you can find in this website is...
 7. paypal payment system
 8. purchase history
 
-----
 Here is the website url. <br />
 Responsive but recommended in PC environment. <br />
 https://gentle-scrubland-03375.herokuapp.com/ <br />
