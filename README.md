@@ -1,3 +1,30 @@
+## Care Bear Shopping Mall
+
+This is Shinsehantan's Care-Bear Shoppingmall.
+If you like Care-Bear, you will love this website. <br />
+
+I use for this website...
+* React
+* Node JS
+* Mongo DB
+* Express JS <br />
+
+what you can find in this website is...
+1. sign up/sign in/sign out
+2. product upload & delete
+3. categories & price filter
+4. search
+5. product images gallery
+6. add to cart & delete from cart
+7. paypal payment system
+8. purchase history
+
+Here is the website url. <br />
+Responsive but recommended in PC environment. <br />
+https://gentle-scrubland-03375.herokuapp.com/ <br />
+
+---------------------------------------------------------
+
 ## 케어베어 쇼핑몰
 <img width="700px" src="https://user-images.githubusercontent.com/67591151/97992371-f05a3900-1e25-11eb-8259-f2118a5ded45.jpg"> <br />
 신세한탄의 케어베어 쇼핑몰입니다. <br />
@@ -32,31 +59,3 @@
 반응형으로 제작되었으나, pc 환경에서 보는 것을 추천합니다. <br />
 https://gentle-scrubland-03375.herokuapp.com/ <br />
 
-
----------------------------------------------------------
-
-
-## Care Bear Shopping Mall
-
-This is Shinsehantan's Care-Bear Shoppingmall.
-If you like Care-Bear, you will love this website. <br />
-
-I use for this website...
-* React
-* Node JS
-* Mongo DB
-* Express JS <br />
-
-what you can find in this website is...
-1. sign up/sign in/sign out
-2. product upload & delete
-3. categories & price filter
-4. search
-5. product images gallery
-6. add to cart & delete from cart
-7. paypal payment system
-8. purchase history
-
-Here is the website url. <br />
-Responsive but recommended in PC environment. <br />
-https://gentle-scrubland-03375.herokuapp.com/ <br />
